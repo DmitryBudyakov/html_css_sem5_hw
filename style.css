@@ -132,11 +132,11 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 60px;
+  padding: 100px 0;
 }
 
 .card-small {
-  padding-bottom: 25px;
-  margin-bottom: 125px;
+  padding: 40px 0 25px;
 }
 
 .card-small h3 {
